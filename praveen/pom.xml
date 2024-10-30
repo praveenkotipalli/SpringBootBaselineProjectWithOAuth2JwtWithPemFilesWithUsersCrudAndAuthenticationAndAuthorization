@@ -8,9 +8,9 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.learn</groupId>
-	<artifactId>praveen</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<groupId>inc.praveen</groupId>
+	<artifactId>spring-boot-starter-setup</artifactId>
+	<version>1.0.0</version>
 	<name>praveen</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
